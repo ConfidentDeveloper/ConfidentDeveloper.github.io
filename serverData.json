@@ -134,9 +134,9 @@
   ],
   "downloadLinks": [
     {
-      "gameLink": "https://launcher-test-version-stabil.kalyna-rp.com/kalynarp.zip",
-      "gameFile": "kalynarp.zip",
-      "gameFileUnpackage": "kalynarp",
+      "gameLink": "https://91f65429b29cdbac.cdn.express/kalyna.zip",
+      "gameFile": "kalyna.zip",
+      "gameFileUnpackage": "kalyna",
       "gameUpdateLink": "https://launcher-test-version-stabil.kalyna-rp.com/update.zip",
       "gameUpdateFile": "update.zip",
       "gameUpdateFileUnpackage": "update",
@@ -144,7 +144,7 @@
       "launcherUpdateFile": "launcherUpdate64.zip"
     }
   ],
-  "canDownloadGame" : false,
+  "canDownloadGame" : true,
   "versions": [
     {
       "serverGameVersion": 4,
