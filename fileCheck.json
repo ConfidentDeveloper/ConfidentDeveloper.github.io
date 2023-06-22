@@ -9,7 +9,5 @@
     ".CFG",
     ".ide"
   ],
-  "fileCheckSystem": [
-    "CustomSAA2/HANDLING.CFG:62224"
-  ]
+  "fileCheckSystem": []
 }
