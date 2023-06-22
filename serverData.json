@@ -83,7 +83,7 @@
   "canDownloadGame" : false,
   "versions": [
     {
-      "serverGameVersion": 1,
+      "serverGameVersion": 4,
       "gameVersionFile": "gameVersion.txt",
       "launcherVersionLink": "1.0.4"
     }
