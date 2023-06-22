@@ -2,11 +2,11 @@
   "IPServers": [
     {
       "Name": "Server #1",
-      "ServerImageLauncher": "https://launcher-test-version-stabil.kalyna-rp.com/serverOneTest.png",
+      "ServerImageLauncher": "https://cdn.discordapp.com/attachments/947494021360656434/1121478439791251526/serverOneTest.png",
       "ServerImageDiscord": "test",
       "IP": "146.59.12.189",
       "Port": 7777,
-      "ServerPasswords": "serverData32.json",
+      "ServerPasswords": "3sf84cs2",
       "isServerAvailable": false
     }
   ],
@@ -76,8 +76,8 @@
       "gameUpdateLink": "https://launcher-test-version-stabil.kalyna-rp.com/update.zip",
       "gameUpdateFile": "update.zip",
       "gameUpdateFileUnpackage": "update",
-      "launcherUpdateLink": "https://launcher-test-version-stabil.kalyna-rp.com/updatesLauncher/launcherUpdate64.zip",
-      "launcherUpdateFile": "launcherUpdate.zip"
+      "launcherUpdateLink": "https://cdn.discordapp.com/attachments/947494021360656434/1121476433156522015/launcherUpdate64.zip",
+      "launcherUpdateFile": "launcherUpdate64.zip"
     }
   ],
   "canDownloadGame" : false,
@@ -85,7 +85,7 @@
     {
       "serverGameVersion": 1,
       "gameVersionFile": "gameVersion.txt",
-      "launcherVersionLink": "1.0.3"
+      "launcherVersionLink": "1.0.4"
     }
   ],
   "fileWeightForButton": "Завантаження: 298 МБ",
@@ -96,9 +96,7 @@
       "siteLink": "https://kalyna-rp.com/",
       "instagramLink": "https://www.instagram.com/kalyna.roleplay/",
       "discordLink": "https://discord.com/invite/yA3xKXpNvt",
-      "donateLink": "https://kalyna-rp.com",
-      "videoLink": "https://launcher-test-version-stabil.kalyna-rp.com/Video.mp4",
-      "thumbnailLink": "https://launcher-test-version-stabil.kalyna-rp.com/test.png"
+      "donateLink": "https://kalyna-rp.com"
     }
   ],
   "supportLinks": [
@@ -112,7 +110,7 @@
     {
       "imageWidth": 229,
       "imageHeight": 134,
-      "imageLink": "https://launcher-test-version-stabil.kalyna-rp.com/car.png",
+      "imageLink": "https://media.discordapp.net/attachments/947494021360656434/1121478840632479835/car.png",
       "newsTitle": "Оновленне Небо",
       "newsDescription": "Ми додали новий елемент графіки, а саме більш реалістичне небо!",
       "newsLink": "https://www.youtube.com/@kalynagames8577/",
@@ -124,7 +122,7 @@
     {
       "imageWidth": 229,
       "imageHeight": 134,
-      "imageLink": "https://launcher-test-version-stabil.kalyna-rp.com/car.png",
+      "imageLink": "https://media.discordapp.net/attachments/947494021360656434/1121478840632479835/car.png",
       "newsTitle": "Оновленне Небо",
       "newsDescription": "Ми додали новий елемент графіки, а саме більш реалістичне небо!",
       "newsLink": "https://www.youtube.com/@kalynagames8577/",
