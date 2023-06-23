@@ -140,7 +140,7 @@
       "gameUpdateLink": "https://launcher-test-version-stabil.kalyna-rp.com/update.zip",
       "gameUpdateFile": "update.zip",
       "gameUpdateFileUnpackage": "update",
-      "launcherUpdateLink": "https://cdn.discordapp.com/attachments/1121713741302611968/1121714542305624074/launcherUpdate32.zip",
+      "launcherUpdateLink": "https://cdn.discordapp.com/attachments/1121713741302611968/1121823359269883965/launcherUpdate32.zip",
       "launcherUpdateFile": "launcherUpdate32.zip"
     }
   ],
@@ -149,7 +149,7 @@
     {
       "serverGameVersion": 4,
       "gameVersionFile": "gameVersion.txt",
-      "launcherVersionLink": "1.0.6"
+      "launcherVersionLink": "1.0.7"
     }
   ],
   "fileWeightForButton": "Завантаження: 8.5 ГБ",
