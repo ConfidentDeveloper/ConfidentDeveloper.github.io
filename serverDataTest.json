@@ -134,9 +134,9 @@
     ],
     "downloadLinks": [
       {
-        "gameLink": "https://github.com/DSharpPlus/DSharpPlus/releases/download/v4.4.2/DSharpPlus.4.4.2.nupkg",
-        "gameFile": "DSharpPlus.4.4.2.nupkg",
-        "gameFileUnpackage": "DSharpPlus.4.4.2",
+        "gameLink": "https://91f65429b29cdbac.cdn.express/kalyna.zip",
+        "gameFile": "kalyna.zip",
+        "gameFileUnpackage": "kalyna",
         "gameUpdateLink": "https://launcher-test-version-stabil.kalyna-rp.com/update.zip",
         "gameUpdateFile": "update.zip",
         "gameUpdateFileUnpackage": "update",
