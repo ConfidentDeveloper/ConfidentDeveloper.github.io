@@ -134,13 +134,13 @@
   ],
   "downloadLinks": [
     {
-      "gameLink": "https://91f65429b29cdbac.cdn.express/kalyna.zip",
+      "gameLink": "https://launcher-test-version-stabil.kalyna-rp.com/kalyna.zip",
       "gameFile": "kalyna.zip",
       "gameFileUnpackage": "kalyna",
       "gameUpdateLink": "https://launcher-test-version-stabil.kalyna-rp.com/update.zip",
       "gameUpdateFile": "update.zip",
       "gameUpdateFileUnpackage": "update",
-      "launcherUpdateLink": "https://cdn.discordapp.com/attachments/1121713741302611968/1123266190802960496/launcherUpdate32.zip",
+      "launcherUpdateLink": "https://cdn.discordapp.com/attachments/1121713741302611968/1123285980879786085/launcherUpdate32.zip",
       "launcherUpdateFile": "launcherUpdate32.zip"
     }
   ],
@@ -149,7 +149,7 @@
     {
       "serverGameVersion": 4,
       "gameVersionFile": "gameVersion.txt",
-      "launcherVersionLink": "1.0.9"
+      "launcherVersionLink": "1.1.0"
     }
   ],
   "fileWeightForButton": "Завантаження: 8.5 ГБ",
