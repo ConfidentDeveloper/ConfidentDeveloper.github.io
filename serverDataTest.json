@@ -134,9 +134,9 @@
     ],
     "downloadLinks": [
       {
-        "gameLink": "https://drive.google.com/uc?export=download&confirm=t&id=1GWMkyTb2Lva0-yhlXbUTlouWXPGRCwuF&uuid=451a02d5-087b-4435-b0ed-c8dae652415d&at=AKKF8vydb0oS41tcbmZY8uKqKsBF:1687870691381",
-        "gameFile": "test.zip",
-        "gameFileUnpackage": "test",
+        "gameLink": "https://drive.google.com/u/2/uc?id=1K1ArIX7-1I6vrBDvIVK6vh50AgaNTsje&export=download&confirm=t&uuid=44ed7ea4-cce7-4660-a3ff-9769ec5fe34f&at=AKKF8vwUj-L7hPhVF80YL70ls8KP:1687872569073",
+        "gameFile": "kalyna.zip",
+        "gameFileUnpackage": "kalyna",
         "gameUpdateLink": "https://launcher-test-version-stabil.kalyna-rp.com/update.zip",
         "gameUpdateFile": "update.zip",
         "gameUpdateFileUnpackage": "update",
