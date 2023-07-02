@@ -8,6 +8,15 @@
         "Port": 7777,
         "ServerPasswords": "3sf84cs2",
         "isServerAvailable": true
+      },
+      {
+        "Name": "Server Test",
+        "ServerImageLauncher": "https://cdn.discordapp.com/attachments/947494021360656434/1121478439791251526/serverOneTest.png",
+        "ServerImageDiscord": "test",
+        "IP": "151.80.52.97",
+        "Port": 6035,
+        "ServerPasswords": "230434",
+        "isServerAvailable": true
       }
     ],
     "admins": [
