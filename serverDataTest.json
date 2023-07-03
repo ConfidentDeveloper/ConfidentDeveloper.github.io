@@ -16,7 +16,7 @@
         "IP": "151.80.52.97",
         "Port": 6035,
         "ServerPasswords": "230434",
-        "isServerAvailable": true
+        "isServerAvailable": false
       }
     ],
     "admins": [
