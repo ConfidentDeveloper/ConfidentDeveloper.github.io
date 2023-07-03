@@ -8,6 +8,15 @@
       "Port": 7777,
       "ServerPasswords": "3sf84cs2",
       "isServerAvailable": true
+    },
+    {
+      "Name": "Server Test",
+      "ServerImageLauncher": "https://cdn.discordapp.com/attachments/947494021360656434/1121478439791251526/serverOneTest.png",
+      "ServerImageDiscord": "test",
+      "IP": "151.80.52.97",
+      "Port": 6035,
+      "ServerPasswords": "230434",
+      "isServerAvailable": false
     }
   ],
   "admins": [
@@ -28,7 +37,7 @@
       "gameUpdateLink": "https://launcher-test-version-stabil.kalyna-rp.com/update.zip",
       "gameUpdateFile": "update.zip",
       "gameUpdateFileUnpackage": "update",
-      "launcherUpdateLink": "https://cdn.discordapp.com/attachments/1121713741302611968/1123285980879786085/launcherUpdate32.zip",
+      "launcherUpdateLink": "https://cdn.discordapp.com/attachments/1121713741302611968/1125523915666636903/launcherUpdate32.zip",
       "launcherUpdateFile": "launcherUpdate32.zip"
     }
   ],
@@ -37,7 +46,7 @@
     {
       "serverGameVersion": 4,
       "gameVersionFile": "gameVersion.txt",
-      "launcherVersionLink": "1.1.0"
+      "launcherVersionLink": "1.1.1"
     }
   ],
   "fileWeightForButton": "Завантаження: 8.5 ГБ",
