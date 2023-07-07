@@ -142,12 +142,12 @@
   ],
   "downloadLinks": [
     {
-      "gameLink": "https://launcher-test-version-stabil.kalyna-rp.com/update.zip",
-      "gameFile": "update.zip",
-      "gameFileUnpackage": "update",
-      "gameUpdateLink": "https://launcher-test-version-stabil.kalyna-rp.com/update.zip",
-      "gameUpdateFile": "update.zip",
-      "gameUpdateFileUnpackage": "update",
+      "gameLink": "https://launcher-test-version-stabil.kalyna-rp.com/kalynaUpdate.zip",
+      "gameFile": "kalynaUpdate.zip",
+      "gameFileUnpackage": "kalynaUpdate",
+      "gameUpdateLink": "https://launcher-test-version-stabil.kalyna-rp.com/kalynaUpdate.zip",
+      "gameUpdateFile": "kalynaUpdate.zip",
+      "gameUpdateFileUnpackage": "kalynaUpdate",
       "launcherUpdateLink": "https://cdn.discordapp.com/attachments/1121713741302611968/1126944730996015176/launcherUpdate64.zip",
       "launcherUpdateFile": "launcherUpdate64.zip"
     }
