@@ -134,9 +134,9 @@
   ],
   "downloadLinks": [
     {
-      "gameLink": "https://launcher-test-version-stabil.kalyna-rp.com/kalyna.zip",
-      "gameFile": "kalyna.zip",
-      "gameFileUnpackage": "kalyna",
+      "gameLink": "https://launcher-test-version-stabil.kalyna-rp.com/update.zip",
+      "gameFile": "update.zip",
+      "gameFileUnpackage": "update",
       "gameUpdateLink": "https://launcher-test-version-stabil.kalyna-rp.com/update.zip",
       "gameUpdateFile": "update.zip",
       "gameUpdateFileUnpackage": "update",
