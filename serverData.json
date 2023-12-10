@@ -4,10 +4,10 @@
       "Name": "Server #1",
       "ServerImageLauncher": "https://cdn.discordapp.com/attachments/947494021360656434/1121478439791251526/serverOneTest.png",
       "ServerImageDiscord": "test",
-      "IP": "146.59.12.189",
+      "IP": "146.59.108.51",
       "Port": 7777,
-      "ServerPasswords": "3sf84cs2",
-      "isServerAvailable": false
+      "ServerPasswords": "",
+      "isServerAvailable": true
     }
   ],
   "admins": [
