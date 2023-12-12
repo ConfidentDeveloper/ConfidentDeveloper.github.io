@@ -154,9 +154,9 @@
   ],
   "downloadLinks": [
     {
-      "gameLink": "https://launcher-test-version-stabil.kalyna-rp.com/kalynaUpdate.zip",
-      "gameFile": "kalynaUpdate.zip",
-      "gameFileUnpackage": "kalynaUpdate",
+      "gameLink": "https://api.apikalyna.online/Kalyna.zip",
+      "gameFile": "Kalyna.zip",
+      "gameFileUnpackage": "Kalyna",
       "gameUpdateLink": "https://launcher-test-version-stabil.kalyna-rp.com/kalynaUpdate.zip",
       "gameUpdateFile": "kalynaUpdate.zip",
       "gameUpdateFileUnpackage": "kalynaUpdate",
@@ -164,7 +164,7 @@
       "launcherUpdateFile": "launcherUpdate64.zip"
     }
   ],
-  "canDownloadGame" : false,
+  "canDownloadGame" : true,
   "versions": [
     {
       "serverGameVersion": 1,
@@ -172,8 +172,8 @@
       "launcherVersionLink": "1.1.3"
     }
   ],
-  "fileWeightForButton": "Завантаження: 8.5 ГБ",
-  "fileWeightUpdateForButton": "8.5 ГБ",
+  "fileWeightForButton": "Завантаження: 4.0 ГБ",
+  "fileWeightUpdateForButton": "4.0 ГБ",
   "mediaLinks": [
     {
       "youTubeLink": "https://www.youtube.com/@kalynagames8577/",
