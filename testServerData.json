@@ -1,0 +1,219 @@
+{
+  "IPServers": [
+    {
+      "Name": "Server #1",
+      "ServerImageLauncher": "https://cdn.discordapp.com/attachments/947494021360656434/1121478439791251526/serverOneTest.png",
+      "ServerImageDiscord": "test",
+      "IP": "146.59.108.51",
+      "Port": 7777,
+      "ServerPasswords": "ga23va012",
+      "isServerAvailable": true
+    }
+  ],
+  "admins": [
+    {
+      "username": "Martyn_Kalyna",
+      "password": "26092005"
+    },
+    {
+      "username": "Santiago_Hennesy",
+      "password": "SP04321"
+    },
+    {
+      "username": "Sanyok",
+      "password": "Sanyok2611"
+    },
+    {
+      "username": "Mykola_Holodniy",
+      "password": "29202303"
+    },
+    {
+      "username": "Varoba",
+      "password": "Varoba436"
+    },
+    {
+      "username": "Jonathan_Soderstorm",
+      "password": "j0nathan550kalyna"
+    },
+    {
+      "username": "lacracetto",
+      "password": "03292023"
+    },
+    {
+      "username": "Yuri_LaCracetto",
+      "password": "03312023"
+    },
+    {
+      "username": "Valentin_Muraskho",
+      "password": "04012023"
+    },
+    {
+      "username": "Ot_Do",
+      "password": "1211"
+    },
+    {
+      "username": "Yevchenko",
+      "password": "20052023"
+    },
+    {
+      "username": "Vlad_Specialist",
+      "password": "20052023"
+    },
+    {
+      "username": "Rose_Mavpa",
+      "password": "15062023"
+    },
+    {
+      "username": "Alek_Liwandovsky",
+      "password": "16062023"
+    },
+    {
+      "username": "Kirill_Cryeez",
+      "password": "5pPRU6gm96"
+    },
+    {
+      "username": "Yamato_Yassusada",
+      "password": "x74LJY2v2x"
+    },
+    {
+      "username": "Kelly_Jonhson",
+      "password": "BMn987Jsr6"
+    },
+    {
+      "username": "Lev_Okoner",
+      "password": "VbzPz7C222"
+    },
+    {
+      "username": "Connor_Hillenburg",
+      "password": "2X92ksDu9N"
+    },
+    {
+      "username": "Mila_Parker",
+      "password": "3jR5e54DtZ"
+    },
+    {
+      "username": "Artem_Realtin",
+      "password": "2X92ksDu9N"
+    },
+    {
+      "username": "Oleksandr_Hmelnytsky",
+      "password": "e2V6F62Htn"
+    },
+    {
+      "username": "Filipp_Gromov",
+      "password": "9pDvj99H4H"
+    },
+    {
+      "username": " Steve_Herrington",
+      "password": "x74LJY2v2x"
+    },
+    {
+      "username": "Vitalii_Hennessy",
+      "password": "KTizY86i84"
+    },
+    {
+      "username": "Henry_Lipkovsky",
+      "password": "9c62Fv3SLc"
+    },
+    {
+      "username": "Koteika_Millionare",
+      "password": "F7ie84sH3B"
+    },
+    {
+      "username": "Ryan_Hugo",
+      "password": "UtZ7zyR764"
+    },
+    {
+      "username": "Andrii_Vorobei",
+      "password": "RJjPf5g828"
+    },
+    {
+      "username": "Victor_Gutenyuk",
+      "password": "RJjPf5g828"
+    },
+    {
+      "username": "Reyn_Archangel",
+      "password": "07072023"
+    },
+    {
+      "username": "Dmytro_Volk",
+      "password": "07072023"
+    },
+    {
+      "username": "Vitalik_Saluik",
+      "password": "08072023"
+    },
+    {
+      "username": "Antonio_Batman",
+      "password": "08072023"
+    },
+    {
+      "username": "Henry_Lipkovsky",
+      "password": "08072023"
+    }
+  ],
+  "downloadLinks": [
+    {
+      "gameLink": "https://api.apikalyna.online/Kalyna.zip",
+      "gameFile": "Kalyna.zip",
+      "gameFileUnpackage": "Kalyna",
+      "gameUpdateLink": "https://api.apikalyna.online/Kalynaupdate.zip",
+      "gameUpdateFile": "Kalynaupdate.zip",
+      "gameUpdateFileUnpackage": "Kalynaupdate",
+      "launcherUpdateLink": "https://cdn.discordapp.com/attachments/1121713741302611968/1126944730996015176/launcherUpdate64.zip",
+      "launcherUpdateFile": "launcherUpdate64.zip"
+    }
+  ],
+  "canDownloadGame" : true,
+  "versions": [
+    {
+      "serverGameVersion": 2,
+      "gameVersionFile": "kalyna.cfg",
+      "launcherVersionLink": "1.1.3"
+    }
+  ],
+  "fileWeightForButton": "Завантаження: 4.0 ГБ",
+  "fileWeightUpdateForButton": "4.0 ГБ",
+  "mediaLinks": [
+    {
+      "youTubeLink": "https://www.youtube.com/@kalynagames8577/",
+      "siteLink": "https://kalyna-rp.com/",
+      "instagramLink": "https://www.instagram.com/kalyna.roleplay/",
+      "discordLink": "https://discord.com/invite/yA3xKXpNvt",
+      "donateLink": "https://kalyna-rp.com/donate"
+    }
+  ],
+  "supportLinks": [
+    {
+      "telegramLink": "https://t.me/+4lIFaebSy51iN2My",
+      "forumLink": "https://forum.kalyna-rp.com",
+      "mailLink": "https://kalyna-rp.com"
+    }
+  ],
+  "news": [
+    {
+      "imageWidth": 229,
+      "imageHeight": 134,
+      "imageLink": "https://i.ytimg.com/vi/8m2PxF7v7WQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA4oG_T1uscEBoGBfnBbl69QPrL9A",
+      "newsTitle": "Довгоочікуване відкриття",
+      "newsDescription": "Нові роботи, виправлення карти, нові дорожні розв'язки, новий транспорт і багато іншого контенту. Все це вже в цьому відкриті.",
+      "newsLink": "https://youtu.be/8m2PxF7v7WQ?si=HGA6-itS7d-OJg3V",
+      "newsColorR": 19,
+      "newsColorG": 7,
+      "newsColorB": 7,
+      "newsColorA": 1
+    },
+    {
+      "imageWidth": 229,
+      "imageHeight": 134,
+      "imageLink": "https://i.ytimg.com/vi/2WemmAKQ5pA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCXzQRvDmcKeo9PCjdo88_J2T5DOA",
+      "newsTitle": "Анонс Відкриття",
+      "newsDescription": "Нарешті цей день настав, у цьому роліку ви побачите все про анонс та дату відкриття проекту!",
+      "newsLink": "https://youtu.be/2WemmAKQ5pA?si=Mco_lP-NjX41sZ6H",
+      "newsColorR": 19,
+      "newsColorG": 7,
+      "newsColorB": 7,
+      "newsColorA": 1
+    }
+  ]
+}
