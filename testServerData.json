@@ -157,9 +157,9 @@
       "gameLink": "https://api.apikalyna.online/Kalyna.zip",
       "gameFile": "Kalyna.zip",
       "gameFileUnpackage": "Kalyna",
-      "gameUpdateLink": "https://api.apikalyna.online/Kalynaupdate.zip",
-      "gameUpdateFile": "Kalynaupdate.zip",
-      "gameUpdateFileUnpackage": "Kalynaupdate",
+      "gameUpdateLink": "https://api.apikalyna.online/kalynaupdate1.zip",
+      "gameUpdateFile": "Kalynaupdate1.zip",
+      "gameUpdateFileUnpackage": "Kalynaupdate1",
       "launcherUpdateLink": "https://cdn.discordapp.com/attachments/1121713741302611968/1126944730996015176/launcherUpdate64.zip",
       "launcherUpdateFile": "launcherUpdate64.zip"
     }
@@ -168,8 +168,7 @@
   "versions": [
     {
       "serverGameVersion": 2,
-      "gameVersionFile": "kalyna.cfg",
-      "launcherVersionLink": "1.1.3"
+      "gameVersionFile": "kalyna.cfg"
     }
   ],
   "fileWeightForButton": "Завантаження: 4.0 ГБ",
