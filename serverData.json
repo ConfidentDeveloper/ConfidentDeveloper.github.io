@@ -154,18 +154,16 @@
   ],
   "downloadLinks": [
     {
-      "gameLink": "https://api.apikalyna.online/kalynaupdate1.zip",
-      "gameFile": "kalynaupdate1.zip",
-      "gameFileUnpackage": "kalynaupdate1.zip",
-      "gameUpdateLink": "https://api.apikalyna.online/kalynaupdate1.zip",
-      "gameUpdateFile": "kalynaupdate1.zip",
-      "gameUpdateFileUnpackage": "kalynaupdate1"
+      "gameLink": "https://api.apikalyna.online/models.zip",
+      "gameFile": "models.zip",
+      "gameUpdateLink": "https://api.apikalyna.online/models.zip",
+      "gameUpdateFile": "models.zip"
     }
   ],
   "canDownloadGame" : true,
   "versions": [
     {
-      "serverGameVersion": 2,
+      "serverGameVersion": 3,
       "gameVersionFile": "kalyna.cfg"
     }
   ],
