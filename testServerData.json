@@ -154,12 +154,10 @@
   ],
   "downloadLinks": [
     {
-      "gameLink": "https://api.apikalyna.online/models.zip",
-      "gameFile": "models.zip",
-      "gameFileUnpackage": "models",
-      "gameUpdateLink": "https://api.apikalyna.online/models.zip",
-      "gameUpdateFile": "models.zip",
-      "gameUpdateFileUnpackage": "models",
+      "gameLink": "https://cdn.discordapp.com/attachments/1056676625900634112/1188197513900064838/test.zip?ex=6599a62a&is=6587312a&hm=efbbd7c55e0dcf3a028c81b1886e4d1b609143f6d4a11558d98d7fc41b82d387&",
+      "gameFile": "test.zip",
+      "gameUpdateLink": "https://cdn.discordapp.com/attachments/1056676625900634112/1188197513900064838/test.zip?ex=6599a62a&is=6587312a&hm=efbbd7c55e0dcf3a028c81b1886e4d1b609143f6d4a11558d98d7fc41b82d387&",
+      "gameUpdateFile": "test.zip",
       "launcherUpdateLink": "https://cdn.discordapp.com/attachments/1121713741302611968/1126944730996015176/launcherUpdate64.zip",
       "launcherUpdateFile": "launcherUpdate64.zip"
     }
