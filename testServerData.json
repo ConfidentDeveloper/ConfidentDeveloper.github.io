@@ -167,7 +167,7 @@
   "canDownloadGame" : true,
   "versions": [
     {
-      "serverGameVersion": 2,
+      "serverGameVersion": 3,
       "gameVersionFile": "kalyna.cfg"
     }
   ],
