@@ -154,12 +154,12 @@
   ],
   "downloadLinks": [
     {
-      "gameLink": "https://drive.google.com/uc?export=download&id=1GtEGxg6qJcoJaSN0Ij0e7NUWB4ev3Qaq",
-      "gameFile": "Kalyna.zip",
+      "gameLink": "https://cdn.discordapp.com/attachments/1056676625900634112/1188186922808524871/kalyna.zip?ex=65999c4d&is=6587274d&hm=32f97309dbb5ccc1b62c535a87e235b356f276eaacf9629882b7c23e08dcb050&",
+      "gameFile": "kalyna.zip",
       "gameFileUnpackage": "Kalyna",
-      "gameUpdateLink": "https://api.apikalyna.online/kalynaupdate1.zip",
-      "gameUpdateFile": "Kalynaupdate1.zip",
-      "gameUpdateFileUnpackage": "Kalynaupdate1",
+      "gameUpdateLink": "https://cdn.discordapp.com/attachments/1056676625900634112/1188186922808524871/kalyna.zip?ex=65999c4d&is=6587274d&hm=32f97309dbb5ccc1b62c535a87e235b356f276eaacf9629882b7c23e08dcb050&",
+      "gameUpdateFile": "kalyna.zip",
+      "gameUpdateFileUnpackage": "kalyna",
       "launcherUpdateLink": "https://cdn.discordapp.com/attachments/1121713741302611968/1126944730996015176/launcherUpdate64.zip",
       "launcherUpdateFile": "launcherUpdate64.zip"
     }
