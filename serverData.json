@@ -7,13 +7,17 @@
       "IP": "146.59.108.51",
       "Port": 7777,
       "ServerPasswords": "ga23va012",
-      "isServerAvailable": true
+      "isServerAvailable": false
     }
   ],
   "admins": [
     {
       "username": "Martyn_Kalyna",
-      "password": "26092005"
+      "password": "02012024"
+    },
+    {
+      "username": "Vitaly_Nolan",
+      "password": "02012024"
     },
     {
       "username": "Santiago_Hennesy",
