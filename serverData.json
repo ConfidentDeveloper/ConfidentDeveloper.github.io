@@ -7,7 +7,7 @@
       "IP": "146.59.108.51",
       "Port": 7777,
       "ServerPasswords": "ga23va012",
-      "isServerAvailable": false
+      "isServerAvailable": true
     }
   ],
   "admins": [
